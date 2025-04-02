@@ -1,3 +1,4 @@
+//Implementing a queue using a stack
 #include<stdio.h>
 #define size 10
 int stack[size];
